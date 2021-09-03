@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there, I'm Bruno! Nice to see you here!
 
 <div align="center">
   <a href="https://github.com/brunosequeira1">
