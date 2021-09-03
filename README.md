@@ -1,5 +1,6 @@
-### Hello there, I'm Bruno! Nice to see you here!
-
+<div align="center" style="color:green;">
+  <h3>Hello there, I'm Bruno! Nice to see you here!</h3>
+</div>  
 <div align="center">
   <a href="https://github.com/brunosequeira1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunosequeira1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -45,4 +46,7 @@
   <img src="https://badges.pufler.dev/repos/brunosequeira1"/>
   <img src="https://badges.pufler.dev/commits/monthly/brunosequeira1" />
   </div>  
+  
+  Profile Views :<br>
+![Visitor Count](https://profile-counter.glitch.me/brunosequeira1/count.svg)
  
