@@ -1,6 +1,7 @@
-<div align="center" style="color:green;">
-  <h3>Hello there, I'm Bruno! Nice to see you here!</h3>
-</div>  
+<div align="center">
+<h3>	:bangbang:  :man_technologist:  :atom: :aquarius: :diamond_shape_with_a_dot_inside:"May the Force be with you!":diamond_shape_with_a_dot_inside:    :guitar:   :electron:    :man_technologist:  	:bangbang:</h3>
+
+</div>
 <div align="center">
   <a href="https://github.com/brunosequeira1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunosequeira1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -35,8 +36,10 @@
   <a href="https://www.linkedin.com/in/sequeirabruno/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:bruno_silth@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div> 
- 
- ![Snake animation](https://github.com/brunosequeira1/brunosequeira1/blob/output/github-contribution-grid-snake.svg)
+  Profile Views :<br>
+  
+![Visitor Count](https://profile-counter.glitch.me/brunosequeira1/count.svg)
+![Snake animation](https://github.com/brunosequeira1/brunosequeira1/blob/output/github-contribution-grid-snake.svg)
  
  <div align="center"> 
    <img align="center" height="350em" src="https://activity-graph.herokuapp.com/graph?username=brunosequeira1&theme=chartreuse-dark">
@@ -47,6 +50,4 @@
   <img src="https://badges.pufler.dev/commits/monthly/brunosequeira1" />
   </div>  
   
-  Profile Views :<br>
-![Visitor Count](https://profile-counter.glitch.me/brunosequeira1/count.svg)
  
