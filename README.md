@@ -1,5 +1,5 @@
 <div align="center">
-<h3>	:bangbang:  :man_technologist:  :atom: :aquarius: :diamond_shape_with_a_dot_inside:"May the Force be with you!":diamond_shape_with_a_dot_inside:    :guitar:   :electron:    :man_technologist:  	:bangbang:</h3>
+<h3>	:bangbang:  :man_technologist:  :atom: :aquarius: "May the Force be with you!"   :guitar:   :electron:    :man_technologist:  	:bangbang:</h3>
 
 </div>
 <div align="center">
