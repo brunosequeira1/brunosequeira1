@@ -42,7 +42,7 @@
 ![Snake animation](https://github.com/brunosequeira1/brunosequeira1/blob/output/github-contribution-grid-snake.svg)
  
  <div align="center"> 
-   <img align="center" height="350em" src="https://activity-graph.herokuapp.com/graph?username=brunosequeira1&theme=chartreuse-dark">
+   <!--<img align="center" height="350em" src="https://activity-graph.herokuapp.com/graph?username=brunosequeira1&theme=chartreuse-dark">-->
    
   <p align="center">
   <img src="https://badges.pufler.dev/visits/brunosequeira1/brunosequeira1"/> 
